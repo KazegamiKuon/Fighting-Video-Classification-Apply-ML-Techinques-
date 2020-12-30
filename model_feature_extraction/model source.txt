@@ -1,0 +1,2 @@
+resnext101: https://www.rocq.inria.fr/cluster-willow/amiech/howto100m/models/resnext101.pth
+orther model: https://github.com/kenshohara/3D-ResNets-PyTorch
